@@ -2,15 +2,18 @@
 
 🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
 
-🇿🇦 Living in South Africa
-
-✏️ Blogging at https://phlippieb.bearblog.dev
-
 🎤 Occasional public speaker
 
 🔥 Sometime question-answerer on [StackOverflow](https://stackoverflow.com/users/1469018/phlippie-bosman?tab=answers)
 
 --
+
+✏️ Writing
+
+- https://phlippieb.bearblog.dev
+- https://phlippieb.github.io/
+- https://phlippiebosman.medium.com/
+- https://www.retrorabbit.co.za/author/phlippie/
 
 📦 Libraries and packages
 
