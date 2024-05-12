@@ -8,6 +8,8 @@
 
 🎤 Occasional public speaker
 
+🔥 Sometime question-answerer on [StackOverflow](https://stackoverflow.com/users/1469018/phlippie-bosman)
+
 --
 
 📦 Libraries and packages
