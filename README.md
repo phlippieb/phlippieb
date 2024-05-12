@@ -27,6 +27,7 @@
 - https://github.com/retrorabbit-corotech/corotech
 - https://github.com/retro-merch-store/retro-merch-store-project
 - https://github.com/phlippieb/jump-chrome-extension
+- https://github.com/phlippieb/10.hs
 
 🎁 Open source contributions
 
