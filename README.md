@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🐰 iOS developer at [Retro Rabbit]()
+🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
 🇿🇦 Living in South Africa
 ✏️ Blogging at https://phlippieb.bearblog.dev
 🎤 Occasional public speaker
