@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
+
 🇿🇦 Living in South Africa
+
 ✏️ Blogging at https://phlippieb.bearblog.dev
+
 🎤 Occasional public speaker
+
+--
 
 📦 Libraries and packages
 
@@ -12,7 +17,6 @@
 - https://github.com/phlippieb/PHBNibless
 - https://github.com/phlippieb/PHBStackLayout
 - https://github.com/phlippieb/PHBNonInteractableViews
-- 
 
 🪐 Projects
 
