@@ -2,8 +2,10 @@
 
 🐰 iOS developer at [Retro Rabbit]()
 🇿🇦 Living in South Africa
+✏️ Blogging at https://phlippieb.bearblog.dev
+🎤 Occasional public speaker
 
-📦 Libraries and packages:
+📦 Libraries and packages
 
 - https://github.com/phlippieb/collection-verifier-swift
 - https://github.com/phlippieb/PHBApplying
@@ -12,14 +14,14 @@
 - https://github.com/phlippieb/PHBNonInteractableViews
 - 
 
-Projects:
+🪐 Projects
 
 - https://github.com/phlippieb/resume
 - https://github.com/phlippieb/jakaranda-20
 - https://github.com/retrorabbit-corotech/corotech
 - https://github.com/retro-merch-store/retro-merch-store-project
 
-🎁 Recent open source contributions:
+🎁 Open source contributions
 
 - https://github.com/realm/SwiftLint/pull/5487
 - https://github.com/andreadelfante/PredicateFlow/pull/17
