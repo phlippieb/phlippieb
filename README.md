@@ -26,6 +26,7 @@
 - https://github.com/phlippieb/jakaranda-20
 - https://github.com/retrorabbit-corotech/corotech
 - https://github.com/retro-merch-store/retro-merch-store-project
+- https://github.com/phlippieb/jump-chrome-extension
 
 🎁 Open source contributions
 
