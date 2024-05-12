@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📎 "Phlippie" rhymes with "Clippy"
+
 🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
 
 🎤 Occasional public speaker
