@@ -28,6 +28,7 @@
 🪐 Projects
 
 - https://github.com/phlippieb/resume
+- https://github.com/phlippieb/daily-budget-app
 - https://github.com/phlippieb/jakaranda-20
 - https://github.com/retrorabbit-corotech/corotech
 - https://github.com/retro-merch-store/retro-merch-store-project
