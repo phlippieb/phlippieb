@@ -2,6 +2,8 @@
 
 📎 "Phlippie" rhymes with "Clippy"
 
+🌐 [phlippieb.dev](https://phlippieb.dev)
+
 🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
 
 🎤 Occasional public speaker
@@ -12,6 +14,7 @@
 
 ✏️ Writing
 
+- https://phlippieb.dev/posts/
 - https://phlippieb.bearblog.dev
 - https://phlippieb.github.io/
 - https://phlippiebosman.medium.com/
