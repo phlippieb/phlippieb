@@ -4,7 +4,7 @@
 
 🌐 [phlippieb.dev](https://phlippieb.dev)
 
-🐰 iOS developer at [Retro Rabbit](https://github.com/RetroRabbit)
+🐰 iOS developer at [Entersekt](https://www.entersekt.com/)
 
 🎤 Occasional public speaker
 
